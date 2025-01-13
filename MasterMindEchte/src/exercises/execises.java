@@ -85,48 +85,48 @@ public class execises {
 //        int product5_1 = num5_1 % num5_2;
 //        System.out.println(num5_1 + " % " + num5_2 + " = " + product5_1);
 //		
-
-		System.out.print("Input a number: ");
-        long num = in.nextLong();
-		int num_1 = 1;
-        long product_1 = num * num_1;
-        System.out.println(num + " x " + num_1 + " = " + product_1);
-		
-		int num_2 = 2;
-        long product_2 = num * num_2;
-        System.out.println(num + " x " + num_2 + " = " + product_2);
-		
-		int num_3 = 3;
-        long product_3 = num * num_3;
-        System.out.println(num + " x " + num_3 + " = " + product_3);
-		
-		int num_4 = 4;
-        long product_4 = num * num_4;
-        System.out.println(num + " x " + num_4 + " = " + product_4);
-		
-		int num_5 = 5;
-        long product_5 = num * num_5;
-        System.out.println(num + " x " + num_5 + " = " + product_5);
-		
-		int num_6 = 6;
-        long product_6 = num * num_6;
-        System.out.println(num + " x " + num_6 + " = " + product_6);
-		
-		int num_7 = 7;
-        long product_7 = num * num_7;
-        System.out.println(num + " x " + num_7 + " = " + product_7);
-		
-		int num_8 = 8;
-        long product_8 = num * num_8;
-        System.out.println(num + " x " + num_8 + " = " + product_8);
-		
-		int num_9 = 9;
-        long product_9 = num * num_9;
-        System.out.println(num + " x " + num_9 + " = " + product_9);
-		
-		int num_10 = 10;
-        long product_10 = num * num_10;
-        System.out.println(num + " x " + num_10 + " = " + product_10);
+//
+//		System.out.print("Input a number: ");
+//        long num = in.nextLong();
+//		int num_1 = 1;
+//        long product_1 = num * num_1;
+//        System.out.println(num + " x " + num_1 + " = " + product_1);
+//		
+//		int num_2 = 2;
+//        long product_2 = num * num_2;
+//        System.out.println(num + " x " + num_2 + " = " + product_2);
+//		
+//		int num_3 = 3;
+//        long product_3 = num * num_3;
+//        System.out.println(num + " x " + num_3 + " = " + product_3);
+//		
+//		int num_4 = 4;
+//        long product_4 = num * num_4;
+//        System.out.println(num + " x " + num_4 + " = " + product_4);
+//		
+//		int num_5 = 5;
+//        long product_5 = num * num_5;
+//        System.out.println(num + " x " + num_5 + " = " + product_5);
+//		
+//		int num_6 = 6;
+//        long product_6 = num * num_6;
+//        System.out.println(num + " x " + num_6 + " = " + product_6);
+//		
+//		int num_7 = 7;
+//        long product_7 = num * num_7;
+//        System.out.println(num + " x " + num_7 + " = " + product_7);
+//		
+//		int num_8 = 8;
+//        long product_8 = num * num_8;
+//        System.out.println(num + " x " + num_8 + " = " + product_8);
+//		
+//		int num_9 = 9;
+//        long product_9 = num * num_9;
+//        System.out.println(num + " x " + num_9 + " = " + product_9);
+//		
+//		int num_10 = 10;
+//        long product_10 = num * num_10;
+//        System.out.println(num + " x " + num_10 + " = " + product_10);
 		
 		
 //        System.out.println("   J    a  v     v  a");
@@ -159,30 +159,7 @@ public class execises {
 //        double product4 = num1*(num2-(num3/num4)+(num5/num6)-(num7/num8)+(num9/num10)-(num11/num12)); 
 //        System.out.println(product4);
 // 
-    
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-       
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
+		 
 	 }
 	
 }
